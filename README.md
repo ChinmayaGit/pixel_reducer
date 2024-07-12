@@ -1,6 +1,6 @@
 # pixel_reducer
 
-A new Flutter project.
+Now compress the pdf and image
 
 ## Getting Started
 
