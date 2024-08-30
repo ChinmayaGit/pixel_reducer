@@ -4,7 +4,7 @@ Now compress the pdf and image or all files in a folder.
 
 |Home Screen|Image Compress|PDF Compress|
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img src="https://raw.githubusercontent.com/ChinmayaGit/pixel_reducer/main/pics/app.jpg" width=80% height=80%> |<img src="https://raw.githubusercontent.com/ChinmayaGit/pixel_reducer/main/pics/folder%20compress.jpg" width=80% height=80%>|<img src="https://raw.githubusercontent.com/ChinmayaGit/pixel_reducer/main/pics/pdf%20compress.jpg" width=80% height=80%> | 
+|<img src="https://raw.githubusercontent.com/ChinmayaGit/pixel_reducer/main/pics/app.jpg" width=80% height=80%> |<img src="https://raw.githubusercontent.com/ChinmayaGit/pixel_reducer/main/pics/img%20comp.jpg" width=80% height=80%>|<img src="https://raw.githubusercontent.com/ChinmayaGit/pixel_reducer/main/pics/pdf%20compress.jpg" width=80% height=80%> | 
 
 |Folder Compress|Compress Folder (PR)|
 |:-------------------------:|:-------------------------:|
